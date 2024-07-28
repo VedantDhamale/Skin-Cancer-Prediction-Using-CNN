@@ -1,1 +1,1 @@
-
+![Skin Cancer Prediction Example]()
